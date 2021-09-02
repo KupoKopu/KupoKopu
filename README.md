@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @KupoKopu
 - 🌱 I’m currently figuring out what projects to put on github but will start delving into data structures and design templates soon (c++)
+- I have meddled in with my projects: C++, C#, WxWidgets, SQL, ODBC, OLE
+- Understand: Python, HTML, Javascript & CSS
 
 <!---
 KupoKopu/KupoKopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
